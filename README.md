@@ -1,3 +1,12 @@
+<a href="https://github.com/xkudcobi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/dark_mode.svg">
+    <img alt="Kudret Polat Coşkun's GitHub Profile README" src="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/light_mode.svg">
+  </picture>
+</a>
+
+---
+
 # Merhaba, ben Kudret 👋
 
 Yönetim Bilişim Sistemleri mezunuyum. İşin her zaman en çok işletme tarafı ilgimi çekti;
