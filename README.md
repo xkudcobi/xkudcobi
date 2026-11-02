@@ -1,7 +1,7 @@
 <a href="https://github.com/xkudcobi">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkudcobi/xkudcobi/8ffa21083fd8cf6c0248ad0d6d58434950324e4c/dark_mode.svg">
-    <img alt="Kudret Polat Coşkun's GitHub Profile README" src="https://raw.githubusercontent.com/xkudcobi/xkudcobi/8ffa21083fd8cf6c0248ad0d6d58434950324e4c/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkudcobi/xkudcobi/b2b527a2222221011fa1db72325eece3b3b3f061/dark_mode.svg">
+    <img alt="Kudret Polat Coşkun's GitHub Profile README" src="https://raw.githubusercontent.com/xkudcobi/xkudcobi/b2b527a2222221011fa1db72325eece3b3b3f061/light_mode.svg">
   </picture>
 </a>
 
