@@ -1,7 +1,7 @@
 <a href="https://github.com/xkudcobi">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/dark_mode.svg">
-    <img alt="Kudret Polat Coşkun's GitHub Profile README" src="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/dark_mode.svg?v=2">
+    <img alt="Kudret Polat Coşkun's GitHub Profile README" src="https://raw.githubusercontent.com/xkudcobi/xkudcobi/main/light_mode.svg?v=2">
   </picture>
 </a>
 
