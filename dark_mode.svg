@@ -1,73 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1117" height="542" viewBox="0 0 1117 542" font-family="Consolas, 'Courier New', monospace" font-size="16">
+<svg xmlns="http://www.w3.org/2000/svg" width="1053" height="609" viewBox="0 0 1053 609" font-family="Consolas, 'Courier New', monospace" font-size="18">
 <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
-<text x="24" y="33.0" fill="#c9d1d9" font-size="8" xml:space="preserve">
-<tspan x="24" y="54.9">                               #@   %#*%                   @@   @</tspan>
-<tspan x="24" y="63.9">                              @%#%    # @@@   @@                 @</tspan>
-<tspan x="24" y="72.9">                             @@@@@@@@@@@@@@@@@@@   @@@@@@@@      @@</tspan>
-<tspan x="24" y="81.9">                            @@@@@@@@@@%%%%@@@@@@@@@@@@@%%%%@@@@@@@@@@@%</tspan>
-<tspan x="24" y="90.9">                         @@@@@@%#%%%%%%#%@@@%%@@@@%#***++*#%@@@@@@%%@@@@%</tspan>
-<tspan x="24" y="99.9">                       @@@@@@@@@@@@@%@@##%%@@@%%@%%#*#######%%@@@@%##%@@@*</tspan>
-<tspan x="24" y="108.9">                      @@@@%@%#%%%%@%##%###++#++#@%#%%%%%%%%###*#@@%*%%##@@@</tspan>
-<tspan x="24" y="117.9">                     @@@@%@@@@@%==+##%%%##*--.+%%%@@@#+=+==+++****#*@#+#%@@@   @</tspan>
-<tspan x="24" y="126.9">                    @@#@%#%@%#=:=++#%@%*++++=.=-##-::=+***++***++##==+%%#%@@@ @@</tspan>
-<tspan x="24" y="135.9">                   @@%%@@%@*- .==-:+*=*=:-::.::.:.::=*###%%%#*++*+##==####%@#</tspan>
-<tspan x="24" y="144.9">                @ @@@@@@@@@-.::    :=..::..::::::::=*+=+#@%*#%#**#*%%+++###@</tspan>
-<tspan x="24" y="153.9">              @@@@@@@@%%@@##=:.. :+=------====--::::     .:=*=+*###*#+.:*##%%</tspan>
-<tspan x="24" y="162.9">              @@@@@@@@+:+%+=%%*##%@@@@@@@@@@@@@@@@%@@%*+-::.-++***++**=:==*#@@@@</tspan>
-<tspan x="24" y="171.9">               @@#+#%@*-#+#-=+#@%%%@@@@@@@@@@@@@@@@@@@@@@@#*==***++=+**+==+=#%@@</tspan>
-<tspan x="24" y="180.9">                @%*:.: -#**##%@%*=. .:=+@@@@@@@@@@@@@@@@@@@@@%**+=====**===+###</tspan>
-<tspan x="24" y="189.9">             @@ @@@@@@%***##%@%=+%%++=:+@@@@@@@@@@@@@@@@@@@@@@@@%#++*-*##++*#*%@@</tspan>
-<tspan x="24" y="198.9">                 @@@%%#+=#+=*=.:#@#@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@%+-==*%++%%*%@</tspan>
-<tspan x="24" y="207.9">                  @#*%%@%%*==::=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*::.=*--##=#%%@</tspan>
-<tspan x="24" y="216.9">                  @@@%#%#%#=*:=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:. .*:-%#*%@@</tspan>
-<tspan x="24" y="225.9">                @@@%#*+%%#*+-=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+:.+=.=#%@@@</tspan>
-<tspan x="24" y="234.9">                   @*+**+-=+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#++**%@@@</tspan>
-<tspan x="24" y="243.9">                   @##%*-#@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@.=*%@</tspan>
-<tspan x="24" y="252.9">                   @@%+#:@@@@@+-----::.   .--=*@@@@@@@@@*=-:.    ..:#@@.#@#</tspan>
-<tspan x="24" y="261.9">                   @@=.-.%@@@@@@@@@@@@@%%%##*#=*@@@@@#:.:--+*#%%@%###@@-#@</tspan>
-<tspan x="24" y="270.9">                  @@* *-+#*%@@@@@@@@@@%%**%@@@@@@@@@%-*@@@@%%%%@%%#*#@# @@</tspan>
-<tspan x="24" y="279.9">                  @=  .+@@:=-*%##@@%:-:+@%===%@@%%%#*=:=+@@-:.+#--+%#=.=@@</tspan>
-<tspan x="24" y="288.9">                 @#    *@@@:%@@@%@#%#++#%##@@+ =###=: #@@@@%*#@###@@@@++%</tspan>
-<tspan x="24" y="297.9">                @%=    #@@@-@@@@@@@@@@@@@%@@%#.@@@@@+:%@%@@@@@@@@@@@@@#@%</tspan>
-<tspan x="24" y="306.9">               @@#-    =@@@%=@@@@@@@@@@@@@@@%=*@@@@@% -+@@@@@@@@@@@@@@#@##</tspan>
-<tspan x="24" y="315.9">             @@@#*=     @@@@=#@@@@@@@@@@@@@@%=@@@@@@@*-%@@@@@@@@@@@@@%@+</tspan>
-<tspan x="24" y="324.9">           @@%*@#*=     +@@@@*=@@@@@@@@@@@@++@@@@@@@@@=-#@@@@@@@@@@%*@@</tspan>
-<tspan x="24" y="333.9">       %@@@@%+-%**+     *@@@@@@+===+*##*+*+%@@@@@@@@@@@#::=#%%#*=+*@@@#</tspan>
-<tspan x="24" y="342.9">     @@@%###+--%#**=    -@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@+*@@%@@@@@@@@:@#*</tspan>
-<tspan x="24" y="351.9">   @@@%**%#*+--##***     +@@@@@@@@@@@@@@@@@@@@@@@@@@@*%@@@@@@@@@@@@@@+ =+#*#</tspan>
-<tspan x="24" y="360.9">   @@#**%#+++-:#****=     @@@@@@@@@@@@@@@@@@@@@@@@@@#+-#@@@@@@@@@@@@%  :--+*%</tspan>
-<tspan x="24" y="369.9">   %@%***++++=:******=    =@@@@@@@@@@@@@@@@@@=--=-+---::=+*#@@@@@@@@. . :==+*%</tspan>
-<tspan x="24" y="378.9">    #%****+++=-+****+*-    #@@@@@@@@@@@@%*+=++*+::*%%%%*=---==@@@@@+ .- ===++*%</tspan>
-<tspan x="24" y="387.9">     %#*++++++=:****+**=    #@@@@@@@@#===-+@@@@@@@@@@@@@@%*==*@@@@*  --:=+=+++##</tspan>
-<tspan x="24" y="396.9"> #%%#++**++++++--*++++**=    *@@@@@@@#*#%%#++##**##+++==+@@@@@@@@#  -=--===+++*%</tspan>
-<tspan x="24" y="405.9">@#***+++**+++=+=-=*++++**=    +@@@@@@@@@@@@@**%@@%%%%#*#@@@@@@@@*  -+=:=+==++++##</tspan>
-<tspan x="24" y="414.9">+==-==-::++++====-=++==+++=    =@@@@@@@@@@@@@@%%##*##%%@@@@@@@@=  :-==:=======+**</tspan>
-<tspan x="24" y="423.9">-------:--=+==-==-:=========:   :%%%%%%%%%%%%#%##*#%%%%%%%%%%#-  ::-==.==----=++==</tspan>
-<tspan x="24" y="432.9">------:.:::-==-----:-=-=-==--:    +######################**+++. .:----:------===.-=+=</tspan>
-<tspan x="24" y="441.9">:::::::::.::.-----:-::--------:    -********************+=:=*+  .:::-:--::---=-  ::--=+=</tspan>
-<tspan x="24" y="450.9">::::::::......:::::::::::::::--:.    =+++++++++++++++++=--+++:  :::::::::::---  .:::----==</tspan>
-<tspan x="24" y="459.9">::............  :::::::.:::::::::.     :==============--====-  ..::::::::::::  .::::::::::-=</tspan>
-<tspan x="24" y="468.9">...... . ..       .........:.....             .::--:::------   ...........::  .::::.:....::::</tspan>
-<tspan x="24" y="477.9">                      ..     .                      ....:..      .     ....   ..... .  . ..  ::</tspan>
-<tspan x="24" y="486.9">                                                                                               ..</tspan>
+<text x="24" y="34.1" fill="#c9d1d9" font-size="9" xml:space="preserve">
+<tspan x="24" y="107.8">                          %%  @%##</tspan>
+<tspan x="24" y="117.9">                         @@#@   @@@@@@@@@     #%@      @</tspan>
+<tspan x="24" y="128.0">                        @@@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@</tspan>
+<tspan x="24" y="138.1">                     %@@@@@@@@@@@%@@@@@@@@@%%#*##%@@@@@@@@@@#</tspan>
+<tspan x="24" y="148.2">                    @@@@@@@@@@%@@*%%@@@%@@%#####**%@@@@%%%@@@%</tspan>
+<tspan x="24" y="158.3">                  @@@@@@%%@@@@%#%##+=*-*@%%%@@%%%%##*%@%#%%*@@@%</tspan>
+<tspan x="24" y="168.4">                 @@@@%@@@#+-=+%@%#*+-:.*#%#*++++==++=+*#+#*#%@@@   @</tspan>
+<tspan x="24" y="178.5">                @@%@@@%#-.:--=#*#=--::.:::.:=++*****+++#*-+%%%@@@@</tspan>
+<tspan x="24" y="188.6">                @@@@@@%..:    =..::...:::::-++*#%####+#*%#+**##@</tspan>
+<tspan x="24" y="198.7">           @@@@@@@@%@@#+:.  -+=---=====-:::.    .:+=+**###=.=#%%</tspan>
+<tspan x="24" y="208.8">            @@@@@@%:=%==##%%@@@@@@@@@@@@@@@@@%#+-::=+*++=**=:-+*@@@</tspan>
+<tspan x="24" y="218.9">             @@+-==:*++=*#@%+=+##%@@@@@@@@@@@@@@@%#***+=-=+++=++%@@</tspan>
+<tspan x="24" y="229.0">           @  @@%@#+**%%@@+-+-:.:#@@@@@@@@@@@@@@@@@@@#*==+-+*++*#*@@</tspan>
+<tspan x="24" y="239.1">              @@@@#*=*+=+::%@%@@@%@@@@@@@@@@@@@@@@@@@@@@*--+#*+%%#@</tspan>
+<tspan x="24" y="249.2">               @%%@@%%+=::+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:.:==-#**%@</tspan>
+<tspan x="24" y="259.3">              @@@%*#%#++:+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-  =:=@%@@@</tspan>
+<tspan x="24" y="269.4">               @%*+*#+==#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=+:+#@@</tspan>
+<tspan x="24" y="279.5">                @##*-*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.+%@@</tspan>
+<tspan x="24" y="289.6">                @%%*:@@@@%--:::.    :=+%@@@@@@@+=-:.    :#@@ @*</tspan>
+<tspan x="24" y="299.7">               %@#.:.@@@@@@@@@@@@@@%%%#*@@@@@-:-=+#%@@@@%%@@-@</tspan>
+<tspan x="24" y="309.8">               @%. +*%=**#@@@@#*++==+@@@@@@@+=###=+--===+=++#@%</tspan>
+<tspan x="24" y="319.9">              @@.  +@@=-@@##@%=:-%%*@#--==-:::+@@%--%#=+@@@ +#</tspan>
+<tspan x="24" y="330.0">             @@+   +@@@-@@@@@@@@@@%@@%-*@@@@.#%@@@@@@@@@@@@*@</tspan>
+<tspan x="24" y="340.1">            @@%-   .@@@=@@@@@@@@@@@@@%-@@@@@=:=@@@@@@@@@@@@@#%</tspan>
+<tspan x="24" y="350.2">           @@@#=    #@@@-@@@@@@@@@@@@+%@@@@@@-*@@@@@@@@@@@@@:</tspan>
+<tspan x="24" y="360.3">        @@@*##*+    =@@@@+=#@@@@@@@#=@@@@@@@@@--#@@@@@@##@@=</tspan>
+<tspan x="24" y="370.4">     @@@%%*:##**:   =@@@@@@@*+++**@@@@@@@@@@@@@%:=**++%@@@@+%=</tspan>
+<tspan x="24" y="380.5">   @@%#%%*+.*#**+    #@@@@@@@@@@@@@@@@@@@@@@%#@@@@@@@@@@@@= *#*+</tspan>
+<tspan x="24" y="390.6">  @@@##%*++:+#***-    @@@@@@@@@@@@@@@@@@@@@%+-+%@@@@@@@@@%  :-+*#</tspan>
+<tspan x="24" y="400.7">   %@#**+++=-##***:   +@@@@@@@@@@@@@@*--: --=-::==*%@@@@@    -=+##</tspan>
+<tspan x="24" y="410.8">    @#*++++=-*****+:   #@@@@@@@@*+=-=*%@%%@@@@@%+=-=%@@@= . -==++##</tspan>
+<tspan x="24" y="420.9">  *#***+++++=:**+***-   *@@@@@@*++#######%%***+*@%%@@@@= .- ===++*%</tspan>
+<tspan x="24" y="431.0">@#**+++**++++==*+++*+-   =@@@@@@@@@@@*#%@#%%#**@@@@@@@= .== ===+++##</tspan>
+<tspan x="24" y="441.1">+====-.-++====-=+===++-   -%%%%%%%%%%%%%#**#%%%%%%%%%: .:-=:=====+*#</tspan>
+<tspan x="24" y="451.2">-----::--=====---======-   .#######################*:  ::-------==+-==</tspan>
+<tspan x="24" y="461.3">--::::..:::-----::-------:   =******************+=+*  .::--:-:---=: :-=+=</tspan>
+<tspan x="24" y="471.4">::::::......:-::::::--:::::   .++++++++++++++++-=++=  :::::::::--:  ::---==-</tspan>
+<tspan x="24" y="481.5">::.........  .:::::.::::::..     -===========--====   .::::::::::  ::::::::--</tspan>
+<tspan x="24" y="491.6">.              ...... .....             .:::::----     .......:.  :::......::::</tspan>
+<tspan x="24" y="501.7">                                                                           .   ..</tspan>
 </text>
-<text x="517.5999999999999" y="40.0" fill="#58a6ff" font-weight="bold" font-size="18">xkudcobi@github</text>
-<text x="517.5999999999999" y="60.4" fill="#8b949e" xml:space="preserve">────────────────────────────────────────────────────────────</text>
-<text x="517.5999999999999" y="88.0" xml:space="preserve"><tspan fill="#58a6ff">Name</tspan><tspan fill="#8b949e">:.............. </tspan><tspan fill="#c9d1d9">Kudret Polat Coşkun</tspan></text>
-<text x="517.5999999999999" y="112.0" xml:space="preserve"><tspan fill="#58a6ff">OS</tspan><tspan fill="#8b949e">:................ </tspan><tspan fill="#c9d1d9">Windows 11</tspan></text>
-<text x="517.5999999999999" y="136.0" xml:space="preserve"><tspan fill="#58a6ff">Location</tspan><tspan fill="#8b949e">:.......... </tspan><tspan fill="#c9d1d9">Ankara, Türkiye</tspan></text>
-<text x="517.5999999999999" y="160.0" xml:space="preserve"><tspan fill="#58a6ff">Education</tspan><tspan fill="#8b949e">:......... </tspan><tspan fill="#c9d1d9">Ankara Medipol University</tspan></text>
-<text x="517.5999999999999" y="184.0" xml:space="preserve"><tspan fill="#58a6ff">Degree</tspan><tspan fill="#8b949e">:............ </tspan><tspan fill="#c9d1d9">B.Sc. Management Information Systems</tspan></text>
-<text x="517.5999999999999" y="208.0" xml:space="preserve"><tspan fill="#58a6ff">Role</tspan><tspan fill="#8b949e">:.............. </tspan><tspan fill="#c9d1d9">Co-founder @ Efendi Creative · AI</tspan></text>
-<text x="517.5999999999999" y="232.0" xml:space="preserve">                    <tspan fill="#c9d1d9">Transformation &amp; Solutions</tspan></text>
-<text x="517.5999999999999" y="256.0" xml:space="preserve"><tspan fill="#58a6ff">Focus</tspan><tspan fill="#8b949e">:............. </tspan><tspan fill="#c9d1d9">Custom software &amp; SaaS for business</tspan></text>
-<text x="517.5999999999999" y="280.0" xml:space="preserve">                    <tspan fill="#c9d1d9">needs, AI-powered automation</tspan></text>
-<text x="517.5999999999999" y="318.4" xml:space="preserve"><tspan fill="#58a6ff">Languages.Spoken</tspan><tspan fill="#8b949e">:.. </tspan><tspan fill="#c9d1d9">Türkçe (native), English, Italiano (a</tspan></text>
-<text x="517.5999999999999" y="342.4" xml:space="preserve">                    <tspan fill="#c9d1d9">little)</tspan></text>
-<text x="517.5999999999999" y="380.8" fill="#58a6ff" font-weight="bold" xml:space="preserve">Contact <tspan fill="#8b949e" font-weight="normal">────────────────────────────────────────────────────</tspan></text>
-<text x="517.5999999999999" y="404.8" xml:space="preserve"><tspan fill="#58a6ff">Email</tspan><tspan fill="#8b949e">:............. </tspan><tspan fill="#c9d1d9">kudretpolatcoskun@gmail.com</tspan></text>
-<text x="517.5999999999999" y="428.8" xml:space="preserve"><tspan fill="#58a6ff">GitHub</tspan><tspan fill="#8b949e">:............ </tspan><tspan fill="#c9d1d9">github.com/xkudcobi</tspan></text>
-<text x="517.5999999999999" y="467.2" fill="#58a6ff" font-weight="bold" xml:space="preserve">GitHub Stats <tspan fill="#8b949e" font-weight="normal">───────────────────────────────────────────────</tspan></text>
-<text x="517.5999999999999" y="491.2" xml:space="preserve"><tspan fill="#58a6ff">Repos</tspan><tspan fill="#8b949e">:............. </tspan><tspan fill="#c9d1d9">67</tspan></text>
-<text x="517.5999999999999" y="515.2" xml:space="preserve"><tspan fill="#58a6ff">Member.Since</tspan><tspan fill="#8b949e">:...... </tspan><tspan fill="#c9d1d9">2023</tspan></text>
+<text x="489.40000000000003" y="42.0" fill="#58a6ff" font-weight="bold" font-size="20">xkudcobi@github</text>
+<text x="489.40000000000003" y="63.1" fill="#8b949e" xml:space="preserve">──────────────────────────────────────────────────</text>
+<text x="489.40000000000003" y="91.7" xml:space="preserve"><tspan fill="#58a6ff">Name</tspan><tspan fill="#8b949e">:............ </tspan><tspan fill="#c9d1d9">Kudret Polat Coşkun</tspan></text>
+<text x="489.40000000000003" y="116.5" xml:space="preserve"><tspan fill="#58a6ff">OS</tspan><tspan fill="#8b949e">:.............. </tspan><tspan fill="#c9d1d9">Windows 11</tspan></text>
+<text x="489.40000000000003" y="141.4" xml:space="preserve"><tspan fill="#58a6ff">Location</tspan><tspan fill="#8b949e">:........ </tspan><tspan fill="#c9d1d9">Ankara, Türkiye</tspan></text>
+<text x="489.40000000000003" y="166.2" xml:space="preserve"><tspan fill="#58a6ff">Education</tspan><tspan fill="#8b949e">:....... </tspan><tspan fill="#c9d1d9">Ankara Medipol University</tspan></text>
+<text x="489.40000000000003" y="191.0" xml:space="preserve"><tspan fill="#58a6ff">Degree</tspan><tspan fill="#8b949e">:.......... </tspan><tspan fill="#c9d1d9">B.Sc. Management Information</tspan></text>
+<text x="489.40000000000003" y="215.9" xml:space="preserve">                  <tspan fill="#c9d1d9">Systems</tspan></text>
+<text x="489.40000000000003" y="240.7" xml:space="preserve"><tspan fill="#58a6ff">Role</tspan><tspan fill="#8b949e">:............ </tspan><tspan fill="#c9d1d9">Co-founder @ Efendi Creative ·</tspan></text>
+<text x="489.40000000000003" y="265.6" xml:space="preserve">                  <tspan fill="#c9d1d9">AI Transformation &amp; Solutions</tspan></text>
+<text x="489.40000000000003" y="290.4" xml:space="preserve"><tspan fill="#58a6ff">Focus</tspan><tspan fill="#8b949e">:........... </tspan><tspan fill="#c9d1d9">Custom software &amp; SaaS for</tspan></text>
+<text x="489.40000000000003" y="315.2" xml:space="preserve">                  <tspan fill="#c9d1d9">business needs, AI-powered</tspan></text>
+<text x="489.40000000000003" y="340.1" xml:space="preserve">                  <tspan fill="#c9d1d9">automation</tspan></text>
+<text x="489.40000000000003" y="379.8" xml:space="preserve"><tspan fill="#58a6ff">Languages.Spoken</tspan><tspan fill="#8b949e">:.. </tspan><tspan fill="#c9d1d9">Türkçe (native), English,</tspan></text>
+<text x="489.40000000000003" y="404.7" xml:space="preserve">                  <tspan fill="#c9d1d9">Italiano (a little)</tspan></text>
+<text x="489.40000000000003" y="444.4" fill="#58a6ff" font-weight="bold" xml:space="preserve">Contact <tspan fill="#8b949e" font-weight="normal">──────────────────────────────────────────</tspan></text>
+<text x="489.40000000000003" y="469.2" xml:space="preserve"><tspan fill="#58a6ff">Email</tspan><tspan fill="#8b949e">:........... </tspan><tspan fill="#c9d1d9">kudretpolatcoskun@gmail.com</tspan></text>
+<text x="489.40000000000003" y="494.1" xml:space="preserve"><tspan fill="#58a6ff">GitHub</tspan><tspan fill="#8b949e">:.......... </tspan><tspan fill="#c9d1d9">github.com/xkudcobi</tspan></text>
+<text x="489.40000000000003" y="533.8" fill="#58a6ff" font-weight="bold" xml:space="preserve">GitHub Stats <tspan fill="#8b949e" font-weight="normal">─────────────────────────────────────</tspan></text>
+<text x="489.40000000000003" y="558.7" xml:space="preserve"><tspan fill="#58a6ff">Repos</tspan><tspan fill="#8b949e">:........... </tspan><tspan fill="#c9d1d9">67</tspan></text>
+<text x="489.40000000000003" y="583.5" xml:space="preserve"><tspan fill="#58a6ff">Member.Since</tspan><tspan fill="#8b949e">:.... </tspan><tspan fill="#c9d1d9">2023</tspan></text>
 </svg>
